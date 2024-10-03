@@ -19,19 +19,19 @@ To get started with the project, clone the repository and install the necessary 
 
 - Python 3.9
 - Libraries:
-  - **Streamlit** (v1.15.2)
-  - **Pandas** (v1.5.3)
-  - **Matplotlib** (v3.6.2)
-  - **Seaborn** (v0.12.1)
-  - **Plotly** (v5.15.0)
+  - **Streamlit** (v1.39.0)
+  - **Pandas** (v2.2.3)
+  - **Matplotlib** (v3.9.2)
+  - **Seaborn** (v0.13.2)
+  - **Plotly** (v5.24.1)
+
 
 ### Steps
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/repository-name.git
-    cd repository-name
+    git clone https://github.com/XnomaX/Submission-Dicoding
     ```
 
 2. Create a virtual environment:
@@ -48,11 +48,6 @@ To get started with the project, clone the repository and install the necessary 
       .\env\Scripts\activate
       ```
 
-    - On macOS/Linux:
-
-      ```bash
-      source env/bin/activate
-      ```
 
 4. Install the required packages:
 
