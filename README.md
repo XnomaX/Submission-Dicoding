@@ -60,4 +60,4 @@ To get started with the project, clone the repository and install the necessary 
 To run the Streamlit application, use the following command:
 
 ```bash
-streamlit run app.py
+streamlit run dashboard.py
